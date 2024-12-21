@@ -1,7 +1,7 @@
 {
-  "name": "partykit",
-  "version": "0.0.111",
-  "description": "PartyKit simplifies developing multiplayer applications. Everything's better with friends.",
+  "name": "@maryamcodes/partykit",
+  "version": "0.0.112",
+  "description": "FORKED: PartyKit simplifies developing multiplayer applications. Everything's better with friends.",
   "bin": {
     "partykit": "dist/bin.mjs"
   },
@@ -25,14 +25,14 @@
     "avatars",
     "chat app"
   ],
-  "author": "PartyKit, Inc. <team@partykit.io>",
+  "author": "Maryam Khan <maryam.dev@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/partykit/partykit/issues"
+    "url": "https://github.com/maryam-khan-dev/partykit/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/partykit/partykit.git"
+    "url": "git+https://github.com/maryam-khan-dev/partykit.git"
   },
   "exports": {
     "./server": {
