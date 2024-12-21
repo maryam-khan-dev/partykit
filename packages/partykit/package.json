@@ -1,6 +1,6 @@
 {
   "name": "@maryam-dev/partykit",
-  "version": "0.0.111",
+  "version": "0.0.112",
   "description": "FORKED: PartyKit simplifies developing multiplayer applications. Everything's better with friends.",
   "bin": {
     "partykit": "dist/bin.mjs"
